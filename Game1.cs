@@ -20,7 +20,6 @@ namespace Aerilon
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-            Debug.WriteLine("ok");
             base.Initialize();
         }
 
